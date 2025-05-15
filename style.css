@@ -51,6 +51,7 @@ h1{
     margin-right: 200px;
     margin-bottom: 200px;
     border-radius: 100%;
+    justify-content: center;
 }
 
 .projetos{
